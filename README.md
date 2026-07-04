@@ -74,7 +74,7 @@ The dataset contains **68,158,184 Facebook Ads records** with information such a
 ---
 
 ## Dashboard Preview
-(Add your dashboard screenshot here.)
+![Facebook Ads Dashboard](IMG_20251218_194839.jpg)
 
 ---
 
